@@ -1,4 +1,4 @@
-@baseUrl=http://localhost:3333
+@baseUrl=http://localhost:3000
 
 POST {{baseUrl}}/survey
 Content-Type: application/json
